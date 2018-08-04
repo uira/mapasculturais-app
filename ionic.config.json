@@ -1,6 +1,6 @@
 {
   "name": "mapasculturais-app",
-  "integrations": {},
+  "app_id": "3149039b",
   "gulpStartupTasks": [
     "sass",
     "watch"
@@ -15,6 +15,5 @@
       "browser": "crosswalk",
       "version": "12.41.296.5"
     }
-  ],
-  "pro_id": "3149039b"
+  ]
 }

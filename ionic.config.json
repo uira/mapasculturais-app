@@ -1,5 +1,5 @@
 {
-  "name": "mapasculturais-app",
+  "name": "AgendaCE",
   "app_id": "3149039b",
   "gulpStartupTasks": [
     "sass",
